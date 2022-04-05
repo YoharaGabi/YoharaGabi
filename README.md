@@ -2,7 +2,7 @@
 
 - 🎂 idade: 17 anos 
 - 🔭 Não trabalho no momento 
-- 🌱 estou aprendendo básico front-end (HTML, CSS, JavaScript)
+- 🌱 Aprendendo (HTML,CSS)  
 - 😄 Pronomes: Ela/Dela 
 
 

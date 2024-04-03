@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Yohara
 
-- 🎂 idade: 17 anos 
+- 🎂 idade: 19 anos 
 - 🌱 Aprendendo (HTML,CSS)  
 - 😄 Pronomes: Ela/Dela 
 
